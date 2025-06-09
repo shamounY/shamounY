@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Shamoun
+<h2 align="center">Hi there 👋, I'm Shamoun</h2>
 
 <!--
 **shamounY/shamounY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
