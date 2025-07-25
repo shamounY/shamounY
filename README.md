@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```java
+class Shamoun {
+  private:
+      int age = 20;
+      String school = "Carleton University";
+      String major = "Computer Science";
+      String minor = "Statistics";
+      String[] hobbies = new String[] {
+          "coding ig"
+      };
+  
+  public:
+      Shamoun();
+};
+```
