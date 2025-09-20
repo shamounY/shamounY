@@ -22,9 +22,6 @@ class Shamoun {
       String school = "Carleton University";
       String major = "Computer Science";
       String minor = "Statistics";
-      String[] hobbies = new String[] {
-          "coding ig"
-      };
   
   public:
       Shamoun();
